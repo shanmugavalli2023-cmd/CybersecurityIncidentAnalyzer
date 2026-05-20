@@ -1,0 +1,9 @@
+streamlit
+python-dotenv
+langchain==0.2.16
+langchain-community==0.2.16
+langchain-core==0.2.38
+langchain-groq
+chromadb
+sentence-transformers
+pypdf
